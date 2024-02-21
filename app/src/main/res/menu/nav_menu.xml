@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/ic_mensaje"
+        android:icon="@drawable/iconoenviarmensaje"
+        android:title="@string/logoenvmens"
+        />
+    <item
+
+        android:id="@+id/ic_camara"
+        android:icon="@drawable/logocamara"
+        android:title="@string/logocamara"
+        />
+    <item
+    android:id="@+id/ic_mapa"
+    android:icon="@drawable/location"
+    android:title="@string/logomaoa"
+    />
+
+
+</menu>
