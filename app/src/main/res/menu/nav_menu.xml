@@ -5,18 +5,18 @@
     <item
         android:id="@+id/ic_mensaje"
         android:icon="@drawable/iconoenviarmensaje"
-        android:title="@string/logoenvmens"
+        android:title=""
         />
     <item
 
         android:id="@+id/ic_camara"
         android:icon="@drawable/logocamara"
-        android:title="@string/logocamara"
+        android:title=""
         />
     <item
     android:id="@+id/ic_mapa"
     android:icon="@drawable/location"
-    android:title="@string/logomaoa"
+    android:title=""
     />
 
 
